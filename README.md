@@ -6,4 +6,5 @@ concrete5のカレンダーブロックで、複数月カレンダーを表示�
 + concrete5の編集モードでカレンダーブロックを追加し、カスタムテンプレートで「Multi Month」を選択してください。
 
 ## 詳しい説明はこちらの記事をご覧ください
-（解説記事　作成中）
+concrete5のカレンダーブロックで複数月同時に表示する | Cherry Pie Web
+https://www.cherrypieweb.com/weblog/technical/20180708130817.php
