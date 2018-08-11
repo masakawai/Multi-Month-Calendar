@@ -1,5 +1,7 @@
 # Multi-Month-Calendar
 concrete5のカレンダーブロックで、複数月カレンダーを表示するカスタムテンプレートです。
+コアバージョン 8.4.1 で動作確認しています。
+（8.3 以前では、日本語対応の部分が異なりますので注意してください）
 
 ## 使い方
 + /applocation/blocks ディレクトリに、calendar/templates/multi_month ディレクトリを作成し、view.php をアップロードしてください。
